@@ -95,7 +95,7 @@ const Header = () => {
 
           <div className="hidden md:flex items-center justify-center w-[249px] h-[50px] bg-blue-600 hover:bg-blue-700 rounded-lg transition-all shadow-lg active:scale-95">
             <a
-              href="tel:+8801404282727"
+              href="#"
               className="flex items-center justify-center gap-2 text-white font-semibold w-full h-full"
             >
               <PhoneIcon />

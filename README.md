@@ -1,16 +1,37 @@
-# React + Vite
+# Khan IT Website Implementation (Figma to React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A high-fidelity frontend implementation of the Khan IT website design. This project demonstrates the conversion of a professional Figma design into a responsive, component-based web application using modern styling utilities.
 
-Currently, two official plugins are available:
+## 🔗 Project Links
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Live Deployment (AWS EC2):** http://16.16.141.209:5173/
+- **GitHub Repository:** [https://github.com/tanzimul3islam/Khan-It-React.js.git](https://github.com/tanzimul3islam/Khan-It-React.js.git)
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is currently not compatible with SWC. See [this issue](https://github.com/vitejs/vite-plugin-react/issues/428) for tracking the progress.
+- **Frontend Framework:** React.js
+- **Styling:** Tailwind CSS
+- **Deployment/Hosting:** AWS EC2 (Ubuntu/PM2)
 
-## Expanding the ESLint configuration
+## 🎯 Implementation Scope
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Following the project requirements, I focused on high-quality execution of the core landing page sections:
+
+1.  **Navigation Bar:** Fully responsive with mobile menu support.
+2.  **Hero Section:** Replicated pixel-accurate typography, CTA buttons, and layout spacing.
+3.  **Services/Feature Section:** Implemented a clean, responsive grid system using Tailwind's flex/grid utilities.
+4.  **CTA Section:** A high-conversion design block optimized for all screen sizes.
+
+## 🚀 Key Features
+
+- **Responsive Design:** Optimized for Desktop, Tablet, and Mobile.
+- **Utility-First Styling:** Leveraged Tailwind CSS for rapid, maintainable UI development.
+- **Clean Architecture:** Modular component structure for easy scaling.
+- **Production Deployment:** Hosted on an AWS EC2 instance to demonstrate DevOps and deployment proficiency.
+
+## 💻 Local Setup
+
+1. **Clone the repo:**
+   ```bash
+   git clone [https://github.com/tanzimul3islam/Khan-It-React.js.git](https://github.com/tanzimul3islam/Khan-It-React.js.git)
+   ```
